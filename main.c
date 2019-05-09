@@ -1,3 +1,4 @@
+//https://www.apriorit.com/dev-blog/195-simple-driver-for-linux-os
 #include "device_file.h"
 #include <linux/init.h>       /* module_init, module_exit */
 #include <linux/module.h> /* version info, MODULE_LICENSE, MODULE_AUTHOR, printk() */
